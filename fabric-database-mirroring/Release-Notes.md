@@ -51,7 +51,7 @@ Performed end-to-end validation of the lab, verified that all the Tasks are work
 ---
 </details>
 <details>
-  <summary>2026-04-20</summary>
+  <summary>2026-04-04</summary>
 
 ## Release Date: 2026-04-04
 
